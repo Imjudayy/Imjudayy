@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 
-I've been learning code and learning to make 3d environment as a hobby.
+I studied coding and game development to pursue my dream.
 
 * 🌍  I'm based in Bangkok, Thailand
 
